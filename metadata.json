@@ -1,0 +1,6 @@
+{
+  "name": "Apex Coast GT",
+  "description": "3D golden-hour coastal GT car racing time trial game with procedural graphics, physics, and customizable touch controls.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
